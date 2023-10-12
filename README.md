@@ -107,6 +107,3 @@ Please fork the repository, make your changes, and submit a pull request.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Thank you for using Text Summarization using NLP and NLTK. If you have any questions or suggestions, please feel free to open an issue or contact the project maintainers.
